@@ -2,6 +2,7 @@
 The dataset used for this project contains information related to retail sales transactions across different Blinkit outlets.
 
 📌 Project Overview
+
 This project presents an interactive *Power BI dashboard* developed to analyze sales performance for Blinkit retail outlets. The dashboard provides insights into total sales, product categories, outlet characteristics, and customer ratings.
 
 The objective of this analysis is to understand sales distribution across different outlet types, item categories, outlet sizes, and locations, while identifying key factors that influence overall business performance.
@@ -31,8 +32,6 @@ The dashboard highlights important business metrics including:
 - Average Sales: $141  
 - Number of Items: 8523  
 - Average Rating: 3.9  
-
-These KPIs provide a quick overview of overall retail performance.
 
 Key Visualizations
 
